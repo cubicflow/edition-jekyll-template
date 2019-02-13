@@ -7,15 +7,41 @@ $baseurl: "{{ site.baseurl }}";
 $body-background-color: #2B2E31;
 
 $content-max-width: 800px;
-$content-color: #222;
-$content-background-color: #fff;
+$content-color: #2B2B2C;
+$content-background-color: #F4F4F4;
 
-$brand-colour: #3583d6;
+$brand-colour: #41426A;
+$brand-colour-secondary: #329374;
 $brand-colour-light: mix($brand-colour, $content-background-color, 10%);
+
+//
+// Colors from marketing website
+//
+$black: #000000;
+$white: #FFFFFF;
+
+$gray-dark: #2B2B2C;
+$gray: #7D7E80;
+$gray-blue: #696773;
+$gray-light: #F4F4F4;
+
+$outline-gray: #CFCFCF;
+
+$navy: #41426A;
+$green: #329374;
+$coral: #FCC6C2;
+$yellow: #FFE0A6;
+
+$gray-blue-light: #E4E7ED;
+
+$navy-tint: #575AB0;
+$green-tint: #197457;
+$coral-tint: #EA726A;
+$yellow-tint: #F2A006;
 
 $nav-header-background-color: $brand-colour;
 $nav-header-height: 60px;
-$nav-background-color: #f5f5f5;
+$nav-background-color: #FFFFFF;
 $nav-width: 300px;
 
 $space: 20px;

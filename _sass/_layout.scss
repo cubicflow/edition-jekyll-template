@@ -187,7 +187,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 	h2 {
 		font-size: 2rem;
 		margin-left: -1px;
-		color: #888;
+		color: $gray-blue;
 		letter-spacing: 0;
 	}
 
@@ -337,7 +337,7 @@ h4 svg {
 	position: absolute;
 	top: 5px;
 	line-height: 1;
-	color: $brand-colour;
+	color: $brand-colour-secondary;
 	padding-left: 5px;
 }
 
@@ -390,7 +390,7 @@ h4 svg {
 	}
 
 	.date {
-		color: #888;
+		color: $gray-blue;
 		font-style: italic;
 	}
 }
@@ -416,7 +416,7 @@ blockquote {
 	margin-left: -15px;
 	margin-right: -10px;
 	background-color: $brand-colour-light;
-	border-color: $brand-colour;
+	border-color: $brand-colour-secondary;
 
 	p:last-child {
 		margin-bottom: 0;
