@@ -8,4 +8,4 @@ Click the image below to download our logo assets or [click here](/assets/brand-
 
 [![](/images/brand-logo-assets-cover.svg)](/assets/brand-logo-assets.zip)
 
-> Be sure to follow the [Visual Style Guide](/brand-docs/digital-style-guide) when using these assets.
+> Be sure to follow the [Digital Style Guide](/brand-docs/digital-style-guide) when using these assets.
