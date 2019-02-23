@@ -1,5 +1,5 @@
 ---
-title: Logo Assets
+title: Cowork Medical Logo Assets
 category: Brand Assets
 order: 2
 ---
