@@ -6,7 +6,7 @@ order: 1
 
 The Digital Style Guide is the source-of-truth for digital and visual branding and related questions.
 
-Click the image below to download or [click here](/assets/digital-style-guide.pdf):
+Click the image below to download, or [click here](/assets/digital-style-guide.pdf):
 
 [![](/images/digital-style-guide-cover.svg)](/assets/digital-style-guide.pdf)
 

@@ -4,7 +4,7 @@ category: Brand Assets
 order: 2
 ---
 
-Click the image below to download our logo assets or [click here](/assets/brand-logo-assets.zip):
+Click the image below to download our logo assets, or [click here](/assets/brand-logo-assets.zip):
 
 [![](/images/brand-logo-assets-cover.svg)](/assets/brand-logo-assets.zip)
 
